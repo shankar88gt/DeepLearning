@@ -1,0 +1,7 @@
+*.csv
+".DS_Store"
+*images
+*data
+*models
+*output
+*__pycache__/
