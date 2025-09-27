@@ -4,4 +4,9 @@
 *data
 *models
 *output
+*XY_dev
+*XY_train
+*.wav
+*.png
+*audio_examples
 *__pycache__/
